@@ -5,6 +5,7 @@ const Card = (props) => {
     return (
         <div className='card-container'>
             <h1 className='title'>{props.data.title}</h1>
+            <h2 className='date'>{props.data.date}</h2>
             <img src = {props.data.hdurl} alt='Space'/>
             <p className='explanation'>{props.data.explanation}</p>
         </div>
