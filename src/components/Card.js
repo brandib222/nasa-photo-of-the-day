@@ -22,7 +22,7 @@ const StyledFriend = styled.div
 }
 
 .date {
-    color: #B2B1B9;
+    color: white;
     font-size: 50px;
     padding: 5%;
     display: flex;
@@ -34,6 +34,7 @@ const StyledFriend = styled.div
     background-size: cover;
     box-shadow: 0 0 20px;
 
+
 }
     
 }
@@ -41,7 +42,7 @@ img {
     max-width:80%;
     height:20%;
     box-shadow: 0 0 10px;
-   
+    border-radius: 10px;
 }
 
 .explanation {
