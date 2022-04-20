@@ -19,6 +19,8 @@ const StyledFriend = styled.div
     box-shadow: 5px 10px #FFD523;
     font-size: 90px;
     font-weight: 900;
+
+    
 }
 
 .date {
@@ -33,7 +35,7 @@ const StyledFriend = styled.div
     background: url('https://images.unsplash.com/photo-1532798369041-b33eb576ef16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nzd8fHNwYWNlJTIwaGR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60') no-repeat center center;
     background-size: cover;
     box-shadow: 0 0 20px;
-
+    border-radius: 5px;
 
 }
     
